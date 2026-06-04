@@ -1,5 +1,5 @@
 
-##--------- DAY-1-----------------
+##--------- DAY-1-----------------##
 
 ## Electric Charge
 
@@ -40,11 +40,8 @@
 
 **Example 1 — Glass rod and Silk cloth:**
 - Glass rod is rubbed with silk → Glass loses electrons → Glass becomes **+ve**, Silk becomes **−ve**
-- Total charge before rubbing = 0, Total charge after rubbing = 0 ✅
+- Total charge before rubbing = 0, Total charge after rubbing = 0 
 
-**Example 2 — Pair Production:**
-- γ → e⁻ + e⁺
-- Charge before = 0, Charge after = −e + e = 0 ✅ → Charge is conserved
 
 ---
 
@@ -61,8 +58,7 @@ where n = 0, ±1, ±2, ±3, ... and e = 1.6 × 10⁻¹⁹ C
 - Charge of 3 electrons = −3e = −3 × 1.6 × 10⁻¹⁹ = **−4.8 × 10⁻¹⁹ C**
 - Charge of 2 protons = +2e = +2 × 1.6 × 10⁻¹⁹ = **+3.2 × 10⁻¹⁹ C**
 
-**Why is quantisation ignored at large scale?**
-When charge is of the order of coulombs, the number of electrons involved is about 10¹⁸. Adding or removing one electron makes no measurable difference. So at macroscopic scale, charge is treated as a **continuous quantity**.
+
 
 ---
 
@@ -97,7 +93,7 @@ When charge is of the order of coulombs, the number of electrons involved is abo
 |------|-------------|
 | Step 1 | Bring +ve charged rod near neutral metal ball (do not touch) |
 | Step 2 | Free electrons in ball move toward rod → Near side: −ve, Far side: +ve |
-| Step 3 | Connect far side to earth → +ve charge flows to earth |
+| Step 3 | Connect far side to earth → free electrons from earth flow into the ball and neutralise the +ve charge on far side |
 | Step 4 | Remove ground connection first, then remove the rod |
 | Step 5 | Ball is left with a net **−ve charge** |
 
@@ -236,4 +232,3 @@ $$\vec{F} = \vec{F_1} + \vec{F_2} + \vec{F_3} + ... + \vec{F_n}$$
 
 ---
 
-> **Board Exam Tip:** Always write units with every formula. For 5-mark questions, write Statement → Formula → Derivation → Vector Form → Effect of Medium. For Induction, draw a simple diagram if possible — it earns extra marks.
