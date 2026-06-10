@@ -236,11 +236,8 @@ $$\vec{F} = \vec{F_1} + \vec{F_2} + \vec{F_3} + ... + \vec{F_n}$$
 
 ## 📅 DAY - 3 : Electric Field & Electric Field Lines
 
----
-🔷 SECTION 7 : ELECTRIC FIELD
----
 
-## 7.1 What is Electric Field? (Definition)
+##  What is Electric Field? (Definition)
 
 > **"The electric field at a point in space is defined as the electrostatic force experienced by a unit positive test charge placed at that point, without disturbing the source charge."**
 
@@ -259,14 +256,14 @@ $$\boxed{\vec{E} = \frac{\vec{F}}{q_0}}$$
 - This would disturb the original electric field we are trying to measure.
 - So, the test charge must be **infinitesimally small** so that it does **not disturb the source field**.
 
-### 📝 Correct Definition (Board Exam Language):
+
 > "Electric field **E** at a point is the force per unit positive test charge placed at that point, in the limit when the test charge tends to zero."
 
 $$\boxed{\vec{E} = \lim_{q_0 \to 0} \frac{\vec{F}}{q_0}}$$
 
 ---
 
-## 7.2 SI Unit and Dimensional Formula of Electric Field ⭐
+##  SI Unit and Dimensional Formula of Electric Field ⭐
 
 ### SI Unit:
 
@@ -292,7 +289,7 @@ $$[E] = \frac{[F]}{[Q]} = \frac{[M\ L\ T^{-2}]}{[A\ T]} = \boxed{[M\ L\ T^{-3}\ 
 
 ---
 
-## 7.3 Electric Field Due to a Point Charge ⭐⭐ (Board Derivation — 3 or 5 Marks)
+##  Electric Field Due to a Point Charge ⭐⭐ (Board Derivation — 3 or 5 Marks)
 
 ### 🔹 Setup:
 - Let a point charge **+Q** be placed at origin O.
@@ -330,20 +327,9 @@ where **r̂** is the unit vector pointing **from Q toward P** (i.e., away from t
 | For **−Q** | E points **toward** Q (inward direction) |
 
 ---
-
-### 🔹 Electric Field Diagram (Direction):
-
-```
-For Positive Charge (+Q):          For Negative Charge (-Q):
-
-    P ←——— E ←——— +Q               -Q ———→ E ———→ P
-
-   (E points AWAY from +Q)         (E points TOWARD -Q)
-```
-
 ---
 
-## 7.4 Electric Field is a Vector Quantity
+## Electric Field is a Vector Quantity
 
 - Electric field has both **magnitude** and **direction**.
 - Direction = direction of force on a **positive** test charge.
@@ -352,7 +338,7 @@ For Positive Charge (+Q):          For Negative Charge (-Q):
 
 ---
 
-## 7.5 Electric Field Due to Multiple Charges — Superposition Principle
+##  Electric Field Due to Multiple Charges — Superposition Principle
 
 > **"The total electric field at a point due to many charges is the vector sum of the electric fields due to each individual charge."**
 
@@ -366,7 +352,7 @@ $$E_i = \frac{1}{4\pi\varepsilon_0} \cdot \frac{Q_i}{r_i^2}$$
 
 ---
 
-## 7.6 Summary — All Electric Field Formulas
+## Summary — All Electric Field Formulas
 
 | Formula | Meaning |
 |---------|---------|
@@ -380,11 +366,11 @@ $$E_i = \frac{1}{4\pi\varepsilon_0} \cdot \frac{Q_i}{r_i^2}$$
 
 ---
 
-# 🔷 SECTION 8 : ELECTRIC FIELD LINES
+# 🔷 ELECTRIC FIELD LINES
 
 ---
 
-## 8.1 What are Electric Field Lines? (Definition)
+##  What are Electric Field Lines? (Definition)
 
 > **"Electric field lines are imaginary lines drawn in an electric field such that the tangent drawn at any point on the line gives the direction of the electric field at that point."**
 
@@ -396,7 +382,7 @@ $$E_i = \frac{1}{4\pi\varepsilon_0} \cdot \frac{Q_i}{r_i^2}$$
 
 ---
 
-## 8.2 Properties of Electric Field Lines ⭐⭐⭐ (Most Important — 3 or 5 Marks in Board)
+##  Properties of Electric Field Lines ⭐⭐⭐ (Most Important — 3 or 5 Marks in Board)
 
 > **Learn all 7 properties with explanation. This is a very common Board question.**
 
@@ -532,7 +518,7 @@ Far from charge:  |   |   |  (lines far → E is weak)
 
 ---
 
-## 8.4 Uniform Electric Field ⭐
+## Uniform Electric Field ⭐
 
 > **"A uniform electric field is one in which the magnitude and direction of the electric field are the same at every point."**
 
@@ -554,7 +540,7 @@ Far from charge:  |   |   |  (lines far → E is weak)
 
 ---
 
-## 8.5 Non-Uniform Electric Field
+##  Non-Uniform Electric Field
 
 - If the field lines are **not equally spaced or not parallel**, the field is **non-uniform**.
 - Near a **point charge**, the field is non-uniform (E ∝ 1/r², so it changes with distance).
@@ -563,7 +549,7 @@ Far from charge:  |   |   |  (lines far → E is weak)
 
 ---
 
-# 🔷 SECTION 9 : IMPORTANT DIFFERENCES (Board Frequently Asks)
+# 🔷  IMPORTANT DIFFERENCES (Board Frequently Asks)
 
 ---
 
@@ -592,7 +578,7 @@ Far from charge:  |   |   |  (lines far → E is weak)
 
 ---
 
-# 🔷 SECTION 10 : KEY FORMULAS AND VALUES AT A GLANCE
+# 🔷 KEY FORMULAS AND VALUES AT A GLANCE
 
 ---
 
@@ -633,7 +619,7 @@ Far from charge:  |   |   |  (lines far → E is weak)
 
 ---
 
-# 🔷 SECTION 11 : BOARD EXAM QUESTIONS (Solved)
+# 🔷BOARD EXAM QUESTIONS (Solved)
 
 ---
 
@@ -715,7 +701,7 @@ Far from charge:  |   |   |  (lines far → E is weak)
 
 ---
 
-# 🔷 SECTION 12 : NUMERICAL PROBLEMS (Board Level)
+# NUMERICAL PROBLEMS (Board Level)
 
 ---
 
@@ -755,65 +741,3 @@ $$r^2 = 0.4 \Rightarrow r = \sqrt{0.4} \approx \boxed{0.632 \text{ m}}$$
 ---
 
 ---
-
-# 🔷 SECTION 13 : REVISION CHECKLIST — DAY 3
-
----
-
-Use this checklist before your exam. Tick ✅ each point once you are confident:
-
-### Electric Field
-- [ ] Definition of electric field (in exact words)
-- [ ] Why test charge must be small (q₀ → 0)
-- [ ] Formula: E = F/q₀
-- [ ] Derivation of E due to a point charge
-- [ ] Formula: E = kQ/r² = (1/4πε₀)(Q/r²)
-- [ ] Vector form: E⃗ = (1/4πε₀)(Q/r²) r̂
-- [ ] Direction of E for +ve and −ve charge
-- [ ] SI unit: N/C = V/m
-- [ ] Dimensional formula: [M L T⁻³ A⁻¹]
-- [ ] E ∝ Q and E ∝ 1/r²
-- [ ] Superposition principle for electric field
-
-### Electric Field Lines
-- [ ] Definition of electric field lines
-- [ ] All 6–7 properties (with reasons)
-- [ ] Why field lines never cross (reason: E has only one direction)
-- [ ] Why no closed loops (with comparison to magnetic field lines)
-- [ ] Density of lines ↔ strength of field
-- [ ] Perpendicular to conductor surface
-- [ ] Diagrams: +Q, −Q, dipole (+Q−Q), two same charges (+Q+Q)
-- [ ] Definition and diagram of uniform electric field
-- [ ] Difference: uniform vs non-uniform field
-- [ ] Difference: electric vs magnetic field lines
-
----
-
----
-
-# 🔷 COMPLETE FORMULA SHEET — DAY 1 + DAY 2 + DAY 3
-
----
-
-| Formula | Meaning | Day |
-|---------|---------|-----|
-| Q = ne | Quantisation of charge | Day 1 |
-| F = kq₁q₂/r² | Coulomb's Law (vacuum) | Day 2 |
-| F_medium = F_air / K | Effect of medium | Day 2 |
-| ε = ε₀ × εᵣ | Permittivity of medium | Day 2 |
-| E = F/q₀ | Definition of Electric Field | Day 3 |
-| E = kQ/r² | Field due to point charge | Day 3 |
-| E⃗ = (1/4πε₀)(Q/r²) r̂ | Vector form of field | Day 3 |
-| k = 1/4πε₀ = 9 × 10⁹ N m² C⁻² | Coulomb's constant | Day 2 |
-
----
-
-| Quantity | SI Unit | Dimensional Formula |
-|----------|---------|---------------------|
-| Charge (Q) | Coulomb (C) | [A T] |
-| Force (F) | Newton (N) | [M L T⁻²] |
-| Electric Field (E) | N/C or V/m | **[M L T⁻³ A⁻¹]** |
-| ε₀ | C² N⁻¹ m⁻² | [M⁻¹ L⁻³ T⁴ A²] |
-
----
-
